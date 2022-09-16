@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Equipment used in this experiment is known as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Clay washer",
+        "b": "Mechanical stirrer",
+        "c": "Only a",
+        "d": "both a and b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of these gives the value of clay content present in sand?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Weight of dried sand",
+        "b": "Weight of wet sand",
+        "c": "Weight loss before and after the sample is dried",
+        "d": "None of the above"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "In this experiment solution of NaOH acts as:",
+      "answers": {
+        "a": "Solvent",
+        "b": "Dissolving agent",
+        "c": "Flocculating agent",
+        "d": "Electrolyte"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "What will happen if clay content is increased to 55%:",
+      "answers": {
+        "a": "Permeability will increase",
+        "b": "Binding strength will decrease",
+        "c": "Both a and b",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Size of clay grains:",
+      "answers": {
+        "a": "2-75 micron",
+        "b": "0.0075 to 0.425 mm",
+        "c": "0.425 to 2 mm",
+        "d": "<2 micro"
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]

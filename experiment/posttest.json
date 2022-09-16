@@ -2,37 +2,58 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "To prepare 5% NaOH how much amount of Sodium hydroxide is required?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "10g",
+        "b": "20g",
+        "c": "50g",
+        "d": "5g"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Which of the following is/are type of clay:",
+      "answers": {
+        "a": "Montmorillonite",
+        "b": "Kaolinite",
+        "c": "Illite",
+        "d": "All of the above "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Clay content usually present in moulding sand",
+      "answers": {
+        "a": "4-8%",
+        "b": "5-10%",
+        "c": "10-30%",
+        "d": "2-50%"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "Clay content has effect on following properties of sand ",
+      "answers": {
+        "a": "Porosity",
+        "b": "Binding strength",
+        "c": "Plasticity",
+        "d": "Drying time"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+	{
+      "question": "On increasing the clay content in base sand_________will increase but_______will decrease.",
+      "answers": {
+        "a": "Porosity, binding strength",
+        "b": "Binding strength, porosity",
+        "c": "Drying time, weight",
+        "d": "Weight, drying time"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
