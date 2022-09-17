@@ -1,1 +1,1 @@
-### Aim of the experiment
+### To determine the clay content present in base sand.
