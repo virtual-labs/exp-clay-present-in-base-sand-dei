@@ -1,1 +1,1 @@
-##To determine the clay content present in base sand.
+To determine the clay content present in base sand.
