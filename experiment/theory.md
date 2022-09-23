@@ -1,4 +1,4 @@
-clay content 
+### Clay Content 
 *Clay is extremely fine-grained natural soil material (with < 2 microns size) containing clay minerals (aluminum silicate), which acts as binder material in molding sand. Moulding sand contains 2 – 50% clay. When clay is mixed with water it imparts strength, plasticity and good binding strength. 
 *If clay content is increased in sand, it will increase its strength but decrease its permeability. There are two ingredients in clay:
 * 1. Fine silt     2.   True clay 
