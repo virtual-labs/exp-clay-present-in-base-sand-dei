@@ -6,7 +6,7 @@
 *Repeat the process 3-4 till water becomes clear in the glass jar.<br>
 *Take the wet sand from the glass jar into a tray and put it into the oven at 110°C to remove moisture and weigh it. Using the following formula calculate the clay percentage in the sand.<br>
 *Percentage clay content is =<br>
-		![F1](https://user-images.githubusercontent.com/10399748/199665622-b4ae5f8a-6636-454f-a22d-d73ba83396cd.jpg)
+		![F1](https://user-images.githubusercontent.com/10399748/199665861-b2af5c19-fbf1-469e-b224-8430db25c8f1.jpg)
 				
 Where	weight of sand w<sub>1</sub> = 500gm<br>
 W<sub>2</sub> is the dried sand
