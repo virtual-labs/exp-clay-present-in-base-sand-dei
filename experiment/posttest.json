@@ -4,10 +4,10 @@
     {
       "question": "To prepare 5% NaOH how much amount of Sodium hydroxide is required?",
       "answers": {
-        "a": "10g",
-        "b": "20g",
-        "c": "50g",
-        "d": "5g"
+        "a": "10 g",
+        "b": "20 g",
+        "c": "50 g",
+        "d": "5 g"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -26,10 +26,10 @@
 	{
       "question": "Clay content usually present in moulding sand",
       "answers": {
-        "a": "4-8%",
-        "b": "5-10%",
-        "c": "10-30%",
-        "d": "2-50%"
+        "a": "4-8 %",
+        "b": "5-10 %",
+        "c": "10-30 %",
+        "d": "2-50 %"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
