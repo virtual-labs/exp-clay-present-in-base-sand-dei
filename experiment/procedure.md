@@ -9,7 +9,7 @@ Step 4. Click on the siphon and take 5inch of unclean water from the glass jar.
 
 Step 5. Repeat the process 3-4 till water becomes clear in the glass jar.
 
-Step 6. Take the wet sand from the glass jar into a tray and put it into the oven at 110°C to remove moisture and weigh it. Using the following formula calculate the clay percentage in the sand.
+Step 6. Take the wet sand from the glass jar into a tray and put it into the oven at 110<sup>o</sup>C to remove moisture and weigh it. Using the following formula calculate the clay percentage in the sand.
 
 Step 7. Percentage clay content is = ![](images/formula.jpg)
 				
