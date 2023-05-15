@@ -13,7 +13,7 @@ Step 6. Take the wet sand from the glass jar into a tray and put it into the ove
 
 Step 7. Percentage clay content is = ![](images/formula.jpg)
 
-$$ \frac{w1-w2}{50} \times 100 $$		
+$$ \frac{w_1-w_2}{50} \times 100 $$		
 
 Where	weight of sand w<sub>1</sub> = 500gm<br>
 W<sub>2</sub> is the dried sand
