@@ -4,7 +4,7 @@
 | 1 | Prof. Rahul Swarup Sharma | rahulswarup@dei.ac.in | Dayalbagh Educatonal Institute | Mechanical Engineering |
 
 ### Developers
-| SNo. | Name | Email | Institute | ID |
+| SNo. | Name | Email | Institute | Department |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Ajay Kant Upadhyay | ajaykant900@gmail.com | Dayalbagh Educatonal Institute | Mechanical Engineering |
 | 2 | Anand Swarup Chandrakar | anandswaroop201@gmail.com | Dayalbagh Educatonal Institute | Mechanical Engineering |
