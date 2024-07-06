@@ -9,6 +9,14 @@
         "c": "Only a",
         "d": "both a and b"
       },
+	  
+      "explanations": {
+        "a": "Clay washer and Mechanical stirrer",
+        "b": "Clay washer and Mechanical stirrer",
+        "c": "Clay washer and Mechanical stirrer",
+        "d": "Clay washer and Mechanical stirrer"
+      },
+	  
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -20,6 +28,14 @@
         "c": "Weight loss before and after the sample is dried",
         "d": "None of the above"
       },
+	  
+      "explanations": {
+        "a": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
+        "b": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
+        "c": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
+        "d": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample."
+      },
+	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -28,9 +44,17 @@
       "answers": {
         "a": "Solvent",
         "b": "Dissolving agent",
-        "c": "Flocculating agent",
+        "c": "Dispersing agent",
         "d": "Electrolyte"
       },
+	  
+      "explanations": {
+        "a": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
+        "b": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
+        "c": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
+        "d": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement."
+      },
+	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -42,6 +66,14 @@
         "c": "Both a and b",
         "d": "None of the above"
       },
+	  
+      "explanations": {
+        "a": "This is because clay particles, being very fine, tend to fill the voids between sand particles more effectively, reducing the porosity and thus decreasing the permeability of the soil.",
+        "b": "Clay particles have cohesive properties and tend to bond strongly with each other and with larger sand particles. Therefore, an increase in clay content typically leads to higher binding strength within the soil mixture.",
+        "c": "Both a and b",
+        "d": "Permeability will increase and Binding strength will decrease"
+      },
+	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -53,6 +85,14 @@
         "c": "0.425 to 2 mm",
         "d": "<2 micro"
       },
+	  
+      "explanations": {
+        "a": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
+        "b": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
+        "c": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
+        "d": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size."
+      },
+	  
       "correctAnswer": "d",
       "difficulty": "beginner"
     }
