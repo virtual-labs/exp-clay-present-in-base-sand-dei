@@ -9,6 +9,14 @@
         "c": "50 g",
         "d": "5 g"
       },
+	  
+      "explanations": {
+        "a": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
+        "b": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
+        "c": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
+        "d": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH."
+      },
+	  
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -18,8 +26,16 @@
         "a": "Montmorillonite",
         "b": "Kaolinite",
         "c": "Illite",
-        "d": "All of the above "
+        "d": "All of the above"
       },
+	  
+      "explanations": {
+        "a": "It is a member of the smectite group of clay minerals and is known for its swelling properties when it absorbs water.",
+        "b": "It is a type of clay mineral that is formed primarily from the weathering of aluminosilicate minerals such as feldspar. Kaolinite is known for its relatively low shrink-swell capacity and is commonly used in ceramics and as a filler in various industries.",
+        "c": "It is a non-expanding clay mineral that is structurally similar to muscovite and is a member of the mica group of minerals.",
+        "d": "All of the above"
+      },
+	  
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -31,6 +47,14 @@
         "c": "10-30 %",
         "d": "2-50 %"
       },
+	  
+      "explanations": {
+        "a": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
+        "b": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
+        "c": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
+        "d": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability."
+      },
+	  
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -42,6 +66,14 @@
         "c": "Plasticity",
         "d": "Drying time"
       },
+	  
+      "explanations": {
+        "a": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
+        "b": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
+        "c": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
+        "d": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations."
+      },
+	  
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -53,6 +85,14 @@
         "c": "Drying time, weight",
         "d": "Weight, drying time"
       },
+	  
+      "explanations": {
+        "a": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
+        "b": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
+        "c": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
+        "d": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity."
+      },
+	  
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
