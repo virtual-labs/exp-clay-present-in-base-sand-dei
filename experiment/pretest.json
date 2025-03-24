@@ -2,98 +2,88 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Equipment used in this experiment is known as:",
+      "question": "What is the primary function of clay in moulding sand? (LO1)",
       "answers": {
-        "a": "Clay washer",
-        "b": "Mechanical stirrer",
-        "c": "Only a",
-        "d": "both a and b"
+        "a": "To increase permeability",
+        "b": "To act as a binder and provide strength",
+        "c": "To reduce moisture content",
+        "d": "To remove impurities from the sand"
       },
-	  
       "explanations": {
-        "a": "Clay washer and Mechanical stirrer",
-        "b": "Clay washer and Mechanical stirrer",
-        "c": "Clay washer and Mechanical stirrer",
-        "d": "Clay washer and Mechanical stirrer"
+        "a": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "b": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "c": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "d": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould."
       },
-	  
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "Which of these gives the value of clay content present in sand?",
+      "question": "What is the typical clay content range in moulding sand? (LO2)",
       "answers": {
-        "a": "Weight of dried sand",
-        "b": "Weight of wet sand",
-        "c": "Weight loss before and after the sample is dried",
-        "d": "None of the above"
+        "a": "5%-10%",
+        "b": "2%-50%",
+        "c": "25%-75%",
+        "d": "60%-90%"
       },
-	  
       "explanations": {
-        "a": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
-        "b": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
-        "c": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample.",
-        "d": "Clay content in sand is typically determined by measuring the weight loss of the sample before and after drying. Clay particles retain water more effectively than sand particles, so when a sand sample containing clay is dried, the clay particles lose their moisture content and thus lose weight. The weight loss between the wet and dried samples can be used to estimate the clay content present in the sand sample."
+        "a": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "b": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "c": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "d": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used."
       },
-	  
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which component of clay provides binding strength in moulding sand? (LO1)",
+      "answers": {
+        "a": "Fine silt",
+        "b": "True clay",
+        "c": "Sodium hydroxide",
+        "d": "Sand particles"
+      },
+      "explanations": {
+        "a": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "b": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "c": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "d": "True clay consists of fine mineral particles that develop plasticity when mixed with water."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens when clay is mixed with water? (LO1)",
+      "answers": {
+        "a": "It hardens immediately",
+        "b": "It dissolves completely",
+        "c": "It becomes plastic and provides binding strength",
+        "d": "It forms a porous structure"
+      },
+      "explanations": {
+        "a": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "b": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "c": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "d": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure."
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-	{
-      "question": "In this experiment solution of NaOH acts as:",
+    {
+      "question": "What is the structure of clay particles? (LO1)",
       "answers": {
-        "a": "Solvent",
-        "b": "Dissolving agent",
-        "c": "Dispersing agent",
-        "d": "Electrolyte"
+        "a": "Spherical",
+        "b": "Flake-like",
+        "c": "Cubical",
+        "d": "Cylindrical"
       },
-	  
       "explanations": {
-        "a": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
-        "b": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
-        "c": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement.",
-        "d": "NaOH is used as a dispersing agent, not a flocculating agent, in clay content determination: It keeps clay particles separated for accurate measurement."
+        "a": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "b": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "c": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "d": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume."
       },
-	  
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-	{
-      "question": "What will happen if clay content is increased to 55%:",
-      "answers": {
-        "a": "Permeability will increase",
-        "b": "Binding strength will decrease",
-        "c": "Both a and b",
-        "d": "None of the above"
-      },
-	  
-      "explanations": {
-        "a": "This is because clay particles, being very fine, tend to fill the voids between sand particles more effectively, reducing the porosity and thus decreasing the permeability of the soil.",
-        "b": "Clay particles have cohesive properties and tend to bond strongly with each other and with larger sand particles. Therefore, an increase in clay content typically leads to higher binding strength within the soil mixture.",
-        "c": "Both a and b",
-        "d": "Permeability will increase and Binding strength will decrease"
-      },
-	  
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-	{
-      "question": "Size of clay grains:",
-      "answers": {
-        "a": "2-75 micron",
-        "b": "0.0075 to 0.425 mm",
-        "c": "0.425 to 2 mm",
-        "d": "<2 micro"
-      },
-	  
-      "explanations": {
-        "a": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
-        "b": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
-        "c": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size.",
-        "d": "Clay grains are typically defined as particles that are extremely fine in size. They range from 2 microns (µm) to 75 microns (µm) in diameter. This distinguishes them from larger particles such as silt (which is larger than clay but smaller than sand) and sand particles, which are larger in size."
-      },
-	  
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
