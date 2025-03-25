@@ -1,11 +1,26 @@
-### Clay Content
-Clay is extremely fine-grained natural soil material (with < 2 microns size) containing clay minerals (aluminum silicate), which acts as binder material in molding sand. Moulding sand contains 2 – 50% clay. When clay is mixed with water it imparts strength, plasticity and good binding strength. If clay content is increased in sand, it will increase its strength but decrease its permeability. 
+### Definition of Clay:
 
-There are two ingredients in clay:
- 1. Fine silt  
- 2. True clay
+Clay is a fine-grained natural material with particle sizes smaller than 2 microns. It primarily consists of clay minerals, mainly aluminium silicates, and acts as a binding agent in moulding sand.
 
-In a mould sand true clay imparts the binding strength whereas fine silt has no effect on binding strength. Unlike sand, clay particles have flake like structure meaning that its surface area is much larger than thickness and these particles have great ability to hold/absorb moisture. 
+### Role of Clay in Moulding Sand:
 
-Base sand brought directly from any source contains some amount of clay in it, but that amount may not be sufficient for making mould. Therefore, it becomes essential to determine the amount of clay present in it. After performing clay content test on base sand, one would be able to determine the amount of clay to be added/removed in order to establish a proper balance. 
-When clay particles suspended in water reacts with sodium hydroxide, precipitation is formed which can be weighed using weighing scale.
+Moulding sand typically contains 2% to 50% clay. The presence of clay provides the following characteristics:
+●	Binding Strength: Clay helps in holding the sand particles together, making the mould strong enough to retain its shape.
+●	Plasticity: When mixed with water, clay becomes plastic, meaning it can be moulded into various shapes without cracking.
+●	Moisture Retention: Due to its flake-like structure, clay has a large surface area, allowing it to hold and absorb moisture effectively.
+●	Effect on Permeability: If the clay content is too high, it reduces permeability, which means gases cannot escape easily, leading to defects in castings.
+
+### Types of Clay Components in Moulding Sand:
+1.	True Clay: This component provides the actual binding strength in the moulding sand.
+2.	Fine Silt: These are small particles that do not contribute to binding strength but are present in natural sands.
+
+### Why is Clay Content Measurement Important?
+Base sand obtained from a natural source contains some amount of clay, but this amount may not always be suitable for mould-making. Too much or too little clay can affect the quality of the mould.
+●	If clay content is too high, the mould becomes less permeable, trapping gases and causing casting defects.
+●	If clay content is too low, the mould loses strength, leading to breakage during handling.
+
+To achieve the optimal clay percentage, the clay content test is performed.
+
+### Principle of Clay Content Test:
+
+The test works on the principle that when clay particles are suspended in water, they react with sodium hydroxide (NaOH) to form a precipitate. The clay content is determined by separating, drying, and weighing the precipitate. This helps in deciding whether to add or remove clay from the base sand for proper mould-making.
