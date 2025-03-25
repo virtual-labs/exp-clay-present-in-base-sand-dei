@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Manufacturing Processes (Foundry & Casting) Virtual Simulation Lab</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+	<div id="simulation-cont">
+		<div id="matwork">
+			<div style="height:700px;">
+				<div id="simulation">
+				<img src="images/flask.jpg" width="200px">
+				</div>
+				
+				<div class="waterFlask" id="water">
+				<b style="color:red;">Click on <u>Water</u> to fill in the flask</b><br><br>
+				<img src="images/water.jpg" width="40%" title="Click here" onclick="water()"><br>
+				<b class="h-secondary center">Water</b>
+				</div>
+		
+				<div class="slidecontainer" id="naoh">
+				<b style="color:red;">Click on <u>NaOH</u> to mix in the water</b><br><br>
+				<img src="images/NaOH.jpg" title="Click here" onclick="naohSol()"><br>
+				<b class="h-secondary center">NaOH</b>
+				</div>
+						
+				<div class="slidecontainer" id="sliderContainer">
+				<b style="color:red;">Click on <u>OK</u> or change the value using slider</b><br><br>
+				<img src="images/NaOH.jpg" width="25%"><br><br>
+				<input type="range" min="1" max="40" value="25" class="slider" id="naohRange">
+				<p>NaOH: <span id="naohValue"></span> ml</p>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="okNoah()">
+				</div>
+		
+				<div class="slidecontainer" id="sand">
+				<b style="color:red;">Click on <u>Weighing Machine</u> to weight the sand</b><br><br>
+				<img src="images/weightMachine.jpg" title="Click here" onclick="weightMachine()"><br>
+				<b class="h-secondary center">Weighing Machine</b>
+				</div>
+				
+				<div class="slidecontainer" id="sandContainer">
+				<b style="color:red;">Click on <u>OK</u> or change the value using slider</b><br><br>
+				<img src="images/Sand.jpg" width="50%"><br>Sand<br><br>
+				<input type="range" min="1" max="80" value="50" class="slider" id="sandRange">
+				<p>Sand: <span id="sandValue"></span> gm</p>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="okSand()">
+				</div>
+		
+				<div class="slidecontainer" id="sandSample">
+				<b style="color:red;">Click on <u>Flask</u> to prepare sample</b><br><br>
+				<img src="images/sandSample.jpg" width="25%" title="Click here" onclick="sandSample()"><br>
+				<b class="h-secondary center">Sand Sample</b>
+				</div>
+				
+				<div class="slidecontainer" id="sandFlask">
+				<b style="color:red;">Click on <u>OK</u> to put the sand in flask</b><br><br>
+				<img src="images/Sand.jpg" width="50%"><br>Sand<br><br>
+				<img src="images/ok.png" width="20%" title="Click here" onclick="sandFlask()">
+				</div>
+				
+				<div class="slidecontainer" id="sandNaoh">
+				<b style="color:red;">Click on <u>Flask</u> to mix the 5% NaOH solution in sand</b><br><br>
+				<img src="images/sol5.jpg" width="50%" title="Click here" onclick="sandNaoh()">
+				</div>
+		
+				<div class="slidecontainer" id="clayWasher">
+				<b style="color:red;">Click on <u>Clay Washer</u> to mix the sand in NaOH solution</b><br><br>
+				<img src="images/ClayWasher.jpg" width="40%" title="Click here" onclick="clayWasher()"><br>
+				<b class="h-secondary center">Clay Washer</b>
+				</div>
+				
+				<div class="slidecontainer" id="clayMixer">
+				<b style="color:red;">Press <u>OK</u> to start Clay Washer</b><br><br>
+				<img src="images/ok.png" width="20%" title="Start Clay Washer" onclick="clayMixer()">
+				</div>
+				
+				<div class="slidecontainer" id="stopMixer">
+				<b style="color:red;">Click on <u>Flask</u> to stop clay washer and to pour the water</b><br><br>
+				<img src="images/pouring.jpg" title="Click here" onclick="stopMixer()">
+				</div>
+				
+				<div class="slidecontainer" id="pourWater">
+				<b style="color:red;">Click on <u>Flask</u> to get the wet sand</b><br><br>
+				<img src="images/wetSand.jpg" width="30%" title="Get wet sand" onclick="pourWater()">
+				</div>
+		
+				<div class="slidecontainer" id="oven">
+				<b style="color:red;">Click on <u>Oven</u> to dry the sand</b><br><br>
+				<img src="images/Oven.jpg" title="Click here" onclick="oven()" width="50%"><br>
+				<b class="h-secondary center">Oven</b>
+				</div>
+				
+				<div class="slidecontainer" id="driedSand">
+				<b style="color:red;">Click on <u>Weighing Machine</u> to weight the dried sand</b><br><br>
+				<img src="images/weightMachine.jpg" width="50%" title="Get dried sand" onclick="driedSand()">
+				</div>
+				
+				<div class="slidecontainer" id="result">
+				<b style="color:red;">Press <u>Result</u> to get the<br>Observations and Result</b><br><br>
+				<img src="images/result.jpg" width="30%" title="Click here" onclick="result()">
+				</div>
+				
+<div class="slidecontainer" id="observations" style="margin-left:400px;">
+Observations and Result<br><br>
+<table width="100%" height="100px" border="1">
+	<tr>
+		<th>S.N.</th>
+		<th>Sample</th>
+		<th>Weight</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Sand Sample</td>
+		<td>50 gm </td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Sand Dried</td>
+		<td>40 gm</td>
+	</tr>
+</table><br>
+<img src="images/formula.jpg" width="100%">
+<br><br>
+Result: Percentage of clay present in base sand is  20%.
+</div>
+</div>
+<img src="images/reset.jpg" align="right" width="7%" onclick="resetfun()"><br>
+<hr>
+	<div id="about">
+		<div class="box" id="zoom">
+			<img src="images/water.jpg" title="Water">
+			<h3 class="h-secondary center">Water</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/NaOH.jpg" title="NaOH">
+			<h3 class="h-secondary center">NaOH</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/Sand.jpg" title="Sand" width="99%">
+			<h3 class="h-secondary center">Sand</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/weightMachine.jpg" title="Weighing Machine" width="99%">
+			<h3 class="h-secondary center">Weighing Machine</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/sandSample.jpg" title="Sand Sample">
+			<h3 class="h-secondary center">Sand Sample</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/pouring.jpg" title="Pouring of Water">
+			<h3 class="h-secondary center">Pour the Water</h3>
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/ClayWasher.jpg" title="Clay Washer">
+			<h3 class="h-secondary center">Clay Washer</h3>		
+		</div>
+		
+		<div class="box" id="zoom">
+			<img src="images/Oven.jpg" title="Oven">
+			<h3 class="h-secondary center">Oven</h3>
+		</div>
+	</div>
+	</div>
+</div>
+<div style="margin-top:25px" id="footer">
+<hr>
+<Marquee>
+Copyright &copy; Dayalbagh Educational Institute&nbsp;<a href="https://www.dei.ac.in" target="_blank" title="DEI">(www.dei.ac.in)</a>&nbsp;-&nbsp;<a href="http://msvs-dei.vlabs.ac.in/ajay/index.html" target="_blank" title="Profile">Ajay Kant Upadhyay</a>
+</Marquee>
+</div>
+<script src="../assets/js/iframeResize.js"></script>
+        
+        </body>
+</body>
+</html>

@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary function of clay in moulding sand? (LO1)",
+      "answers": {
+        "a": "To increase permeability",
+        "b": "To act as a binder and provide strength",
+        "c": "To reduce moisture content",
+        "d": "To remove impurities from the sand"
+      },
+      "explanations": {
+        "a": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "b": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "c": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould.",
+        "d": "Clay is essential in moulding sand as it binds sand particles together, providing necessary strength and plasticity to the mould."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the typical clay content range in moulding sand? (LO2)",
+      "answers": {
+        "a": "5%-10%",
+        "b": "2%-50%",
+        "c": "25%-75%",
+        "d": "60%-90%"
+      },
+      "explanations": {
+        "a": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "b": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "c": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used.",
+        "d": "The clay content in moulding sand varies between 2% and 50%, depending on the type of casting process used."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which component of clay provides binding strength in moulding sand? (LO1)",
+      "answers": {
+        "a": "Fine silt",
+        "b": "True clay",
+        "c": "Sodium hydroxide",
+        "d": "Sand particles"
+      },
+      "explanations": {
+        "a": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "b": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "c": "True clay consists of fine mineral particles that develop plasticity when mixed with water.",
+        "d": "True clay consists of fine mineral particles that develop plasticity when mixed with water."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens when clay is mixed with water? (LO1)",
+      "answers": {
+        "a": "It hardens immediately",
+        "b": "It dissolves completely",
+        "c": "It becomes plastic and provides binding strength",
+        "d": "It forms a porous structure"
+      },
+      "explanations": {
+        "a": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "b": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "c": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure.",
+        "d": "When clay absorbs water, it becomes plastic, meaning it can be shaped and will hold together under pressure."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the structure of clay particles? (LO1)",
+      "answers": {
+        "a": "Spherical",
+        "b": "Flake-like",
+        "c": "Cubical",
+        "d": "Cylindrical"
+      },
+      "explanations": {
+        "a": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "b": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "c": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume.",
+        "d": "Clay particles have a flake-like structure, meaning they are thin and have a large surface area relative to their volume."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
