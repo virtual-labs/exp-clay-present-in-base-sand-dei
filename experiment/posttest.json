@@ -2,99 +2,89 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "To prepare 5% NaOH how much amount of Sodium hydroxide is required?",
+      "question": "What is the primary objective of this experiment? (LO4)",
       "answers": {
-        "a": "10 g",
-        "b": "20 g",
-        "c": "50 g",
-        "d": "5 g"
+        "a": "To determine the moisture content of sand",
+        "b": "To evaluate the permeability of sand",
+        "c": "To measure the clay content in base sand",
+        "d": "To analyse the grain size of sand"
       },
-	  
       "explanations": {
-        "a": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
-        "b": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
-        "c": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH.",
-        "d": "5% NaOH solution means 5 grams of NaOH per 100 mL (or 100 grams) of solution. So, for 1000 mL (1000 grams) of solution, we need 50 grams of NaOH."
+        "a": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "b": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "c": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "d": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying."
       },
-	  
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
-	{
-      "question": "Which of the following is/are type of clay:",
+    {
+      "question": "What is the role of a mechanical stirrer in the experiment? (LO2)",
       "answers": {
-        "a": "Montmorillonite",
-        "b": "Kaolinite",
-        "c": "Illite",
-        "d": "All of the above"
+        "a": "To mix sand with water and NaOH for uniform suspension",
+        "b": "To increase the drying speed of the sand",
+        "c": "To remove large impurities from the sand",
+        "d": "To compact the sand for better accuracy"
       },
-	  
       "explanations": {
-        "a": "It is a member of the smectite group of clay minerals and is known for its swelling properties when it absorbs water.",
-        "b": "It is a type of clay mineral that is formed primarily from the weathering of aluminosilicate minerals such as feldspar. Kaolinite is known for its relatively low shrink-swell capacity and is commonly used in ceramics and as a filler in various industries.",
-        "c": "It is a non-expanding clay mineral that is structurally similar to muscovite and is a member of the mica group of minerals.",
-        "d": "All of the above"
+        "a": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "b": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "c": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "d": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains."
       },
-	  
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     },
-	{
-      "question": "Clay content usually present in moulding sand",
+    {
+      "question": "How do you know when to stop the siphoning process? (LO2)",
       "answers": {
-        "a": "4-8 %",
-        "b": "5-10 %",
-        "c": "10-30 %",
-        "d": "2-50 %"
+        "a": "When the water in the jar becomes clear",
+        "b": "When the sand particles stop settling",
+        "c": "When no more clay can be seen in the water",
+        "d": "When the sand particles float in the jar"
       },
-	  
       "explanations": {
-        "a": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
-        "b": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
-        "c": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability.",
-        "d": "Clay content in molding sand can vary widely depending on the specific application and requirements. The typical range of clay content in molding sand is from 2% to 50%. This broad range accommodates different molding processes, such as green sand molding, where lower clay content is preferred, to processes like oil sand molding, where higher clay content may be necessary for better mold strength and stability."
+        "a": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "b": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "c": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "d": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed."
       },
-	  
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     },
-	{
-      "question": "Clay content has effect on following properties of sand ",
+    {
+      "question": "How is the percentage of clay content calculated? (LO4)",
       "answers": {
-        "a": "Porosity",
-        "b": "Binding strength",
-        "c": "Plasticity",
-        "d": "Drying time"
+        "a": "By dividing the initial weight of sand by the weight after drying",
+        "b": "By subtracting the dried sand weight from the initial sand weight and using a formula",
+        "c": "By measuring the volume of clay settled in the jar",
+        "d": "By multiplying the wet sand weight by the oven temperature"
       },
-	  
       "explanations": {
-        "a": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
-        "b": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
-        "c": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations.",
-        "d": "Clay particles have adhesive properties that help bind the sand grains together. As the clay content increases, it enhances the binding strength of the sand mixture. This is crucial in molding processes where the sand must hold its shape and withstand the forces exerted during molding and casting operations."
+        "a": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "b": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "c": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "d": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula."
       },
-	  
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
-	{
-      "question": "On increasing the clay content in base sand_________will increase but_______will decrease.",
+    {
+      "question": "What would happen if the sand is not completely dried before weighing? (LO2)",
       "answers": {
-        "a": "Porosity, binding strength",
-        "b": "Binding strength, porosity",
-        "c": "Drying time, weight",
-        "d": "Weight, drying time"
+        "a": "The clay content will be underestimated",
+        "b": "The clay content will be overestimated",
+        "c": "The sand weight will remain unchanged",
+        "d": "The sand will dissolve in water"
       },
-	  
       "explanations": {
-        "a": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
-        "b": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
-        "c": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity.",
-        "d": "Increasing clay content generally increases the binding strength of the sand mixture. Clay acts as a binder, enhancing the cohesion between sand particles. Increasing clay content tends to decrease porosity. Porosity refers to the amount of void space or air pockets within the sand. More clay means more fine particles that fill the gaps between sand grains, reducing overall porosity."
+        "a": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "b": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "c": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "d": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight."
       },
-	  
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     }
   ]
 }
