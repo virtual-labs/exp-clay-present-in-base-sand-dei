@@ -1,4 +1,5 @@
-### To determine the clay content present in base sand.
+### Aim
+To determine the clay content present in base sand.
 
 ### Learning Objectives:
 
@@ -9,7 +10,6 @@ LO2- To analyse the correct procedure for determining clay content – Performin
 LO3- To analyse the effect of clay content on mould properties – Identifying how varying clay percentages influence the strength, permeability, and potential casting defects in mould-making applications.
 
 LO4- To calculate the percentage of clay content in base sand – Use the given formula to determine the clay percentage based on the difference between the initial and dried sand weights
-
 
 ### Material: 
 Base sand, 5% NaoH solution and water
