@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the primary objective of this experiment? (LO4)",
+      "answers": {
+        "a": "To determine the moisture content of sand",
+        "b": "To evaluate the permeability of sand",
+        "c": "To measure the clay content in base sand",
+        "d": "To analyse the grain size of sand"
+      },
+      "explanations": {
+        "a": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "b": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "c": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying.",
+        "d": "The experiment aims to determine the amount of clay present in the base sand by washing away the finer clay particles and measuring the weight difference before and after drying."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the role of a mechanical stirrer in the experiment? (LO2)",
+      "answers": {
+        "a": "To mix sand with water and NaOH for uniform suspension",
+        "b": "To increase the drying speed of the sand",
+        "c": "To remove large impurities from the sand",
+        "d": "To compact the sand for better accuracy"
+      },
+      "explanations": {
+        "a": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "b": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "c": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains.",
+        "d": "The mechanical stirrer ensures thorough mixing of the sand, water, and NaOH solution, promoting the detachment of clay particles from the sand grains."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How do you know when to stop the siphoning process? (LO2)",
+      "answers": {
+        "a": "When the water in the jar becomes clear",
+        "b": "When the sand particles stop settling",
+        "c": "When no more clay can be seen in the water",
+        "d": "When the sand particles float in the jar"
+      },
+      "explanations": {
+        "a": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "b": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "c": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed.",
+        "d": "The siphoning process is repeated multiple times until the water becomes clear, which indicates that most of the clay particles have been removed."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How is the percentage of clay content calculated? (LO4)",
+      "answers": {
+        "a": "By dividing the initial weight of sand by the weight after drying",
+        "b": "By subtracting the dried sand weight from the initial sand weight and using a formula",
+        "c": "By measuring the volume of clay settled in the jar",
+        "d": "By multiplying the wet sand weight by the oven temperature"
+      },
+      "explanations": {
+        "a": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "b": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "c": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula.",
+        "d": "The clay content is determined using the formula by subtracting the dried sand weight from the initial sand weight and using a formula."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What would happen if the sand is not completely dried before weighing? (LO2)",
+      "answers": {
+        "a": "The clay content will be underestimated",
+        "b": "The clay content will be overestimated",
+        "c": "The sand weight will remain unchanged",
+        "d": "The sand will dissolve in water"
+      },
+      "explanations": {
+        "a": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "b": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "c": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight.",
+        "d": "If the sand is not completely dried before weighing, some residual moisture may remain, making the sand weight appear higher than its actual dry weight."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}
